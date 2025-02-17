@@ -1,3 +1,3 @@
 "# This is a new file"
 "This is a change made on GitHub"
-xyz
+"This is the modified line that was deleted locally."
