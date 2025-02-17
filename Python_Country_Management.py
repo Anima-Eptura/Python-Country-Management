@@ -159,7 +159,7 @@ def main():
 
 
 main()
-print("This is a remote change in NewProjectFolder")
+
 
 
 
